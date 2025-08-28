@@ -1,6 +1,6 @@
 ## Howdy, I'm Charlie, heres a bit about me 👋 🤠
 
-- I'm a backend focused developer working for the past 7 years primarily with python, but I've also dabbled with js, rust, golang and nix in my freetime.
+- I'm a backend focused developer working since 2018 primarily with python, but I've also dabbled with js, rust, golang and nix in my freetime.
 - Nix tinkerer (I like breaking my system in weird and wonderful ways - but being able to fix however I managed to break it once, and only once!)
 - Currently exploring observability (OpenTelemetry)
 - I live and work in London, UK
