@@ -1,4 +1,4 @@
-## Howdy, I'm Charlie, heres a bit about me 👋 🤠
+## Heres a bit about me 👋 🤠
 
 - I'm a backend focused developer working since 2018 primarily with python, but I've also dabbled with nix, js, rust, and golang.
 - Nix tinkerer (I like breaking my system in weird and wonderful ways - but being able to fix however I managed to break it once, and only once!)
@@ -7,7 +7,7 @@
 
 ---
 
-#### Heres a list of technologies I've worked with:
+#### A list of technologies I've worked with:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
